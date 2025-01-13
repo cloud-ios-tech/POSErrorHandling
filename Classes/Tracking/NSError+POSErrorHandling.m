@@ -7,8 +7,8 @@
 //
 
 #import "NSError+POSErrorHandling.h"
-#import "NSException+POSErrorHandling.h"
-#import "NSString+POSErrorHandling.h"
+#import "POSErrorHandling/NSException+POSErrorHandling.h"
+#import "POSErrorHandling/NSString+POSErrorHandling.h"
 
 NS_ASSUME_NONNULL_BEGIN
 
